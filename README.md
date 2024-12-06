@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in ActionScript 3: calling an undefined function.  The bug.as file contains code that attempts to call a function that has not been defined, resulting in a runtime error. The bugSolution.as file provides a solution by ensuring the function is defined before it's called.
